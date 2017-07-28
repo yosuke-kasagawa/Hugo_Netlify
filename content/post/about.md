@@ -4,7 +4,7 @@ date: 2017-07-28T10:44:37+09:00
 draft: false
 ---
 
-# プロフィール
+## プロフィール
 
 | 項目 | 補足 |
 |:---|:---|
@@ -15,24 +15,27 @@ draft: false
 | 前職 | **広告の制作会社**で進行のお仕事をしていました。<br>名刺の役職はクリエイティブディレクター。笑 |
 | 現在 | **無職**。<br>仕事の足音が聞こえます。(9/1から就業予定) |
 | 外見 | 端的にいうと、**細くて長くて掘りが深い**。<br>キャンプにヘラヘラした目立つ奴がいたらたぶん僕です。 |
+
 <br><br>
 
-# スキルセット
+## スキルセット
+
 | 項目 | 補足 |
 |:---|:---|
 | OS | **Mac OS**メインですね。機種は Macbook Air です。<br>あとは仮想マシンでCentOSも少しだけさわります。 |
 | 言語 | キャンプではマイナーな**PHP**です。<br>気になってるのはTypeScriptとかGoとか。 |
 | DB | **MySQL**の基礎的なことをキャンプで学習。<br>テーブル設計とかのスキルはまだまだですね…。 |
 | ツール | Atom / Slack / VirtualBox / Vagrant / Git / SourceTree / etc<br>Dockerは一回敗北。またチャレンジしたいですね。 |
+
 <br><br>
 
-# 趣味
+## 趣味
 * 漫画よく読みます。今一番すすめたいのは **[『人馬』](https://www.amazon.co.jp/dp/4781615112)** です。
 * 自転車よく乗ります。愛車は **[BASSO](http://ysroad.co.jp/shinjuku-custom/wp-content/uploads/2016/04/dsc5808.jpg)** です。
 * 週末は **[谷中](http://www.yanakaginza.com/)** にいます。こどもにベーゴマ教えたりしてます。
 <br><br><br>
 
-# アホ犬書いてみて
+## アホ犬書いてみて
 
 ```php:ahoinu.php
 for ($i=1; $i<=30; $i++) {
@@ -51,5 +54,5 @@ for ($i=1; $i<=30; $i++) {
 
 <br><br>
 
-# 尊敬する人
+## 尊敬する人
 ![Soeda](https://www.geekjob.jp/wp-content/uploads/2016/02/IMG_5056.jpg "Soeda")
