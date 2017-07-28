@@ -5,6 +5,7 @@ draft: false
 ---
 
 ## プロフィール
+---
 
 | 項目 | 補足 |
 | :--- | :--- |
@@ -19,6 +20,7 @@ draft: false
 <br><br>
 
 ## スキルセット
+---
 
 | 項目 | 補足 |
 | :--- | :--- |
@@ -30,12 +32,14 @@ draft: false
 <br><br>
 
 ## 趣味
+---
 * 漫画よく読みます。今一番すすめたいのは **[『人馬』](https://www.amazon.co.jp/dp/4781615112)** です。
 * 自転車よく乗ります。愛車は **[BASSO](http://ysroad.co.jp/shinjuku-custom/wp-content/uploads/2016/04/dsc5808.jpg)** です。
 * 週末は **[谷中](http://www.yanakaginza.com/)** にいます。こどもにベーゴマ教えたりしてます。
 <br><br><br>
 
 ## アホ犬書いてみて
+---
 
 ```php:ahoinu.php
 for ($i=1; $i<=30; $i++) {
@@ -55,4 +59,5 @@ for ($i=1; $i<=30; $i++) {
 <br><br>
 
 ## 尊敬する人
+---
 ![Soeda](https://www.geekjob.jp/wp-content/uploads/2016/02/IMG_5056.jpg "Soeda")
